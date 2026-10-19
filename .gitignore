@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.bin
+*.wav
+*.apk
+*.so
+*.db
+*.sqlite*
+*.log
+*.tar
+*.zip
+.env*
+*.pem
+*.key
